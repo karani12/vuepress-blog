@@ -1,0 +1,13 @@
+{
+    "scripts": {
+      "docs:build": "vuepress build docs"
+    },
+  "name": "blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.39",
+    "vuepress-plugin-blog2": "^2.0.0-beta.39"
+  }
+}
